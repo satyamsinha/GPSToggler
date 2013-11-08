@@ -11,6 +11,16 @@ It requires the 'su' privilegies only during the very first run (reboot is still
 
 Versions:
 
+0.40
+----
+
+1. 4.3+ ROMs especially for Note 2 and similar devices aren't honest toward SU. 
+   The workaround is known (see CWM Superuser open-source project). 
+   To simplify the things the original SU used insrtead of local for all the relevant activity.
+
+2. Fixed bug when Waze/Mapps switched off anf the screen turned off immediately.
+
+
 0.19
 ----
 
